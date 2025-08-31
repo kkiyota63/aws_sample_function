@@ -60,3 +60,6 @@ git rebase origin/main
 git switch -c feature/xxxで作業開始 (git switch -c featureでブランチを作成)
 作業中にmainが進んだら，適宜git fetch→git rebase origin/mainで追従
 
+
+
+hFw1VJxtnO2qNrYFnwf7E3MWobeH8JIvrnfacuKfgmTgljws#5o3jH_grmGRhlGql1qqzc4zN6sgWKaRvp0VAzVvdd7IKoki
